@@ -1,2 +1,4 @@
-# Leetcode
-Leetcode practice record
+# Leetcode 
+This is my Leetcode practice record.
+
+## Solved Problems
