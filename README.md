@@ -9,4 +9,5 @@ This is my Leetcode practice record.
 
 ### Graph
 
-[277. Find the Celebrity]()
+[277. Find the Celebrity](https://github.com/Tianhao-Li/Leetcode/blob/main/Graph/277.%20Find%20the%20Celebrity.md)
+
