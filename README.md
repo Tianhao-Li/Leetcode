@@ -7,3 +7,6 @@ This is my Leetcode practice record.
 
 ## Solved Problems
 
+### Graph
+
+[277. Find the Celebrity]()
