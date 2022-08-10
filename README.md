@@ -11,3 +11,8 @@ This is my Leetcode practice record.
 
 [329. Longest Increasing Path in a Matrix](https://github.com/Tianhao-Li/Leetcode/blob/main/Graph/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
 
+
+
+### DFS
+
+[200. Number of Islands](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/200.%20Number%20of%20Islands.md)
