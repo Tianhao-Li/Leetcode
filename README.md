@@ -18,3 +18,9 @@ This is my Leetcode practice record.
 [200. Number of Islands](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/200.%20Number%20of%20Islands.md)
 
 [341. Flatten Nested List Iterator](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.md)
+
+
+
+### Tree
+
+[230. Kth Smallest Element in a BST]()
