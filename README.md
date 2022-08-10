@@ -23,4 +23,4 @@ This is my Leetcode practice record.
 
 ### Tree
 
-[230. Kth Smallest Element in a BST]()
+[230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
