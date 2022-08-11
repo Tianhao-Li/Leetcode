@@ -27,3 +27,5 @@ This is my Leetcode practice record.
 
 [285. Inorder Successor in BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/285.%20Inorder%20Successor%20in%20BST.md)
 
+[116. Populating Next Right Pointers in Each Node]()
+
