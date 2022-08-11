@@ -23,10 +23,10 @@ This is my Leetcode practice record.
 
 ### Tree
 
-[230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
-
-[285. Inorder Successor in BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/285.%20Inorder%20Successor%20in%20BST.md)
-
 [116. Populating Next Right Pointers in Each Node](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 
 [130. Surrounded Regions](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/130.%20Surrounded%20Regions.md)
+
+[230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+
+[285. Inorder Successor in BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/285.%20Inorder%20Successor%20in%20BST.md)
