@@ -15,6 +15,8 @@ This is my Leetcode practice record.
 
 ### DFS
 
+[104. Maximum Depth of Binary Tree]()
+
 [200. Number of Islands](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/200.%20Number%20of%20Islands.md)
 
 [341. Flatten Nested List Iterator](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.md)
@@ -30,4 +32,3 @@ This is my Leetcode practice record.
 [230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
 
 [285. Inorder Successor in BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/285.%20Inorder%20Successor%20in%20BST.md)
-[104. Maximum Depth of Binary Tree]()
