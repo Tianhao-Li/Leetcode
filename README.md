@@ -15,7 +15,7 @@ This is my Leetcode practice record.
 
 ### DFS
 
-[104. Maximum Depth of Binary Tree]()
+[104. Maximum Depth of Binary Tree](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 
 [200. Number of Islands](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/200.%20Number%20of%20Islands.md)
 
