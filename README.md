@@ -43,4 +43,4 @@ This is my Leetcode practice record.
 
 ### Two Pointers
 
-[253. Meeting Rooms II]()
+[253. Meeting Rooms II](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/253.%20Meeting%20Rooms%20II.md)
