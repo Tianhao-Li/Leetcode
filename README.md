@@ -47,4 +47,4 @@ This is my Leetcode practice record.
 
 [287. Find the Duplicate Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.md)
 
-[295. Find Median from Data Stream]()
+[295. Find Median from Data Stream](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/295.%20Find%20Median%20from%20Data%20Stream.md)
