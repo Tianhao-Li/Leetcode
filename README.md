@@ -46,3 +46,5 @@ This is my Leetcode practice record.
 [253. Meeting Rooms II](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/253.%20Meeting%20Rooms%20II.md)
 
 [287. Find the Duplicate Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.md)
+
+[295. Find Median from Data Stream]()
