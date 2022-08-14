@@ -49,7 +49,7 @@ This is my Leetcode practice record.
 
 [75. Sort Colors](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/75.%20Sort%20Colors.md)
 
-[202. Happy Number]()
+[202. Happy Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/202.%20Happy%20Number.md)
 
 [253. Meeting Rooms II](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/253.%20Meeting%20Rooms%20II.md)
 
