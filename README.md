@@ -47,7 +47,7 @@ This is my Leetcode practice record.
 
 ### Two Pointers
 
-[19. Remove Nth Node From End of List]()
+[19. Remove Nth Node From End of List](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 
 [75. Sort Colors](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/75.%20Sort%20Colors.md)
 
