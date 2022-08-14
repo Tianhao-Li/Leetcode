@@ -47,10 +47,11 @@ This is my Leetcode practice record.
 
 ### Two Pointers
 
-[75. Sort Colors]()
+[75. Sort Colors](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/75.%20Sort%20Colors.md)
 
 [253. Meeting Rooms II](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/253.%20Meeting%20Rooms%20II.md)
 
 [287. Find the Duplicate Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.md)
 
 [295. Find Median from Data Stream](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/295.%20Find%20Median%20from%20Data%20Stream.md)
+
