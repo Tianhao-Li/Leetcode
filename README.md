@@ -45,7 +45,7 @@ This is my Leetcode practice record.
 
 [75. Sort Colors](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/75.%20Sort%20Colors.md)
 
-[160. Intersection of Two Linked Lists]()
+[160. Intersection of Two Linked Lists](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/160.%20Intersection%20of%20Two%20Linked%20Lists.md)
 
 [202. Happy Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/202.%20Happy%20Number.md)
 
