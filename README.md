@@ -45,6 +45,8 @@ This is my Leetcode practice record.
 
 [75. Sort Colors](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/75.%20Sort%20Colors.md)
 
+[160. Intersection of Two Linked Lists]()
+
 [202. Happy Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/202.%20Happy%20Number.md)
 
 [253. Meeting Rooms II](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/253.%20Meeting%20Rooms%20II.md)
@@ -55,7 +57,7 @@ This is my Leetcode practice record.
 
 
 
-### String
+### **String**
 
 [13. Roman to Integer](https://github.com/Tianhao-Li/Leetcode/blob/main/String/13.%20Roman%20to%20Integer.md)
 
