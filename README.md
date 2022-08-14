@@ -3,6 +3,10 @@ This is my Leetcode practice record.
 
 
 
+## Questions Need Attention
+
+[230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) -- Follow ups, involves `Greater Tree` and `AVL Tree`.
+
 ## Solved Problems
 
 ### Graph
