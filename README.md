@@ -1,5 +1,5 @@
 # Leetcode 
-This is my Leetcode practice record.
+This is my Leetcode practice record. 
 
 
 
