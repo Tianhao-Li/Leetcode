@@ -61,7 +61,7 @@ This is my Leetcode practice record.
 
 [13. Roman to Integer](https://github.com/Tianhao-Li/Leetcode/blob/main/String/13.%20Roman%20to%20Integer.md)
 
-[28. Implement strStr()]()
+[28. Implement strStr()](https://github.com/Tianhao-Li/Leetcode/blob/main/String/28.%20Implement%20strStr().md)
 
 
 
