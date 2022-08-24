@@ -74,3 +74,9 @@ LRU Cache
 ### Array
 
 [350. Intersection of Two Arrays II](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/350.%20Intersection%20of%20Two%20Arrays%20II.md)
+
+
+
+### Linked List
+
+[146. LRU Cache]()
