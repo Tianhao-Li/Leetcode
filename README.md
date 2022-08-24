@@ -79,4 +79,4 @@ LRU Cache
 
 ### Linked List
 
-[146. LRU Cache]()
+[146. LRU Cache](https://github.com/Tianhao-Li/Leetcode/blob/main/Linked%20List/146.%20LRU%20Cache.md)
