@@ -81,4 +81,4 @@ LRU Cache
 
 [146. LRU Cache](https://github.com/Tianhao-Li/Leetcode/blob/main/Linked%20List/146.%20LRU%20Cache.md)
 
-[328. Odd Even Linked List]()
+[328. Odd Even Linked List](https://github.com/Tianhao-Li/Leetcode/blob/main/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)
