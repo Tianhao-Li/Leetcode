@@ -17,7 +17,7 @@ LRU Cache
 
 ### DP
 
-[322. Coin Change]()
+[322. Coin Change](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/322.%20Coin%20Change.md)
 
 
 
