@@ -17,7 +17,7 @@ LRU Cache
 
 ### DP
 
-- 322 & 279 closely related
+>  322 & 279 closely related
 
 [279. Perfect Squares](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/279.%20Perfect%20Squares.md)
 
@@ -43,18 +43,6 @@ LRU Cache
 
 
 
-### Tree
-
-[116. Populating Next Right Pointers in Each Node](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
-
-[130. Surrounded Regions](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/130.%20Surrounded%20Regions.md)
-
-[230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
-
-[285. Inorder Successor in BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/285.%20Inorder%20Successor%20in%20BST.md)
-
-
-
 ### Two Pointers
 
 [19. Remove Nth Node From End of List](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
@@ -70,6 +58,24 @@ LRU Cache
 [287. Find the Duplicate Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.md)
 
 [295. Find Median from Data Stream](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/295.%20Find%20Median%20from%20Data%20Stream.md)
+
+
+
+### Tree
+
+[116. Populating Next Right Pointers in Each Node](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+
+[130. Surrounded Regions](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/130.%20Surrounded%20Regions.md)
+
+[230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+
+[285. Inorder Successor in BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/285.%20Inorder%20Successor%20in%20BST.md)
+
+
+
+### HashMap
+
+[1. Two Sum]()
 
 
 
