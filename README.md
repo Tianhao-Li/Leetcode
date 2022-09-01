@@ -75,7 +75,7 @@ LRU Cache
 
 ### HashMap
 
-[1. Two Sum]()
+[1. Two Sum](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/1.%20Two%20Sum.md)
 
 
 
