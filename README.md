@@ -19,7 +19,7 @@ LRU Cache
 
 - 322 & 279 closely related
 
-[279. Perfect Squares]()
+[279. Perfect Squares](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/279.%20Perfect%20Squares.md)
 
 [322. Coin Change](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/322.%20Coin%20Change.md)
 
