@@ -45,7 +45,7 @@ LRU Cache
 
 ### Binary Search
 
-[719. Find K-th Smallest Pair Distance]()
+[719. Find K-th Smallest Pair Distance](https://github.com/Tianhao-Li/Leetcode/blob/main/Binary%20Search/719.%20Find%20K-th%20Smallest%20Pair%20Distance.md)
 
 
 
@@ -64,6 +64,8 @@ LRU Cache
 [287. Find the Duplicate Number](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.md)
 
 [295. Find Median from Data Stream](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/295.%20Find%20Median%20from%20Data%20Stream.md)
+
+[719. Find K-th Smallest Pair Distance](https://github.com/Tianhao-Li/Leetcode/blob/main/Binary%20Search/719.%20Find%20K-th%20Smallest%20Pair%20Distance.md)
 
 
 
