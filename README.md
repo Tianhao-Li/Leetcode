@@ -43,6 +43,12 @@ LRU Cache
 
 
 
+### Binary Search
+
+[719. Find K-th Smallest Pair Distance]()
+
+
+
 ### Two Pointers
 
 [19. Remove Nth Node From End of List](https://github.com/Tianhao-Li/Leetcode/blob/main/Two%20Pointers/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
