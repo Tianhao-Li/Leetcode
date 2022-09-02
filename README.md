@@ -11,6 +11,8 @@ LRU Cache
 
 212 Word Search 2
 
+[28. Implement strStr()](https://github.com/Tianhao-Li/Leetcode/blob/main/String/28.%20Implement%20strStr().md) -- Optimized solutions: (1) Rabin-Karp (2) KMP
+
 
 
 ## Solved Problems
