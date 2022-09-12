@@ -21,6 +21,8 @@ LRU Cache
 
 [380. Insert Delete GetRandom O(1)](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 
+[146. LRU Cache](https://github.com/Tianhao-Li/Leetcode/blob/main/Linked%20List/146.%20LRU%20Cache.md)
+
 
 
 ### DP
