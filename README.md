@@ -17,6 +17,12 @@ LRU Cache
 
 ## Solved Problems
 
+### Design
+
+
+
+
+
 ### DP
 
 >  322 & 279 closely related
@@ -86,6 +92,8 @@ LRU Cache
 ### HashMap
 
 [1. Two Sum](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/1.%20Two%20Sum.md)
+
+[380. Insert Delete GetRandom O(1)]()
 
 
 
