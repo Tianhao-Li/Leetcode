@@ -19,7 +19,7 @@ LRU Cache
 
 ### Design
 
-
+[380. Insert Delete GetRandom O(1)](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 
 
 
@@ -93,7 +93,7 @@ LRU Cache
 
 [1. Two Sum](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/1.%20Two%20Sum.md)
 
-[380. Insert Delete GetRandom O(1)]()
+[380. Insert Delete GetRandom O(1)](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 
 
 
