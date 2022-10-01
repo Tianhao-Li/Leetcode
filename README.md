@@ -95,7 +95,7 @@ LRU Cache
 
 [1. Two Sum](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/1.%20Two%20Sum.md)
 
-[36. Valid Sudoku]()
+[36. Valid Sudoku](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/36.%20Valid%20Sudoku.md)
 
 [49. Group Anagrams](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/49.%20Group%20Anagrams.md)
 
