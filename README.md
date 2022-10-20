@@ -29,7 +29,7 @@ LRU Cache
 
 >  322 & 279 closely related
 
-[62. Unique Paths]()
+[62. Unique Paths](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/62.%20Unique%20Paths.md)
 
 [139. Word Break](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/139.%20Word%20Break.md)
 
