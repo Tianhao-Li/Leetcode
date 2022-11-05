@@ -115,7 +115,7 @@ LRU Cache
 
 [28. Implement strStr()](https://github.com/Tianhao-Li/Leetcode/blob/main/String/28.%20Implement%20strStr().md)
 
-[1328. Break a Palindrome]()
+[1328. Break a Palindrome](https://github.com/Tianhao-Li/Leetcode/blob/main/String/1328.%20Break%20a%20Palindrome.md)
 
 
 
