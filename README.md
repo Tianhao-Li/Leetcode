@@ -129,7 +129,7 @@ LRU Cache
 
 [945. Minimum Increment to Make Array Unique](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)
 
-[1010. Pairs of Songs With Total Durations Divisible by 60]()
+[1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)
 
 
 
