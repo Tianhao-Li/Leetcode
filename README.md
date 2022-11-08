@@ -145,4 +145,4 @@ LRU Cache
 
 ### Math
 
-[780. Reaching Points]()
+[780. Reaching Points](https://github.com/Tianhao-Li/Leetcode/blob/main/Math/780.%20Reaching%20Points.md)
