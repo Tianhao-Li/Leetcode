@@ -141,7 +141,7 @@ LRU Cache
 
 [328. Odd Even Linked List](https://github.com/Tianhao-Li/Leetcode/blob/main/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)
 
-[1836. Remove Duplicates From an Unsorted Linked List]()
+[1836. Remove Duplicates From an Unsorted Linked List](https://github.com/Tianhao-Li/Leetcode/blob/main/Linked%20List/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List.md)
 
 
 
