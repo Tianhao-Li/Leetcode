@@ -121,7 +121,7 @@ LRU Cache
 
 [696. Count Binary Substrings](https://github.com/Tianhao-Li/Leetcode/blob/main/String/696.%20Count%20Binary%20Substrings.md)
 
-[811. Subdomain Visit Count]()
+[811. Subdomain Visit Count](https://github.com/Tianhao-Li/Leetcode/blob/main/String/811.%20Subdomain%20Visit%20Count.md)
 
 [1328. Break a Palindrome](https://github.com/Tianhao-Li/Leetcode/blob/main/String/1328.%20Break%20a%20Palindrome.md)
 
