@@ -119,6 +119,8 @@ LRU Cache
 
 [28. Implement strStr()](https://github.com/Tianhao-Li/Leetcode/blob/main/String/28.%20Implement%20strStr().md)
 
+[68. Text Justification]()
+
 [696. Count Binary Substrings](https://github.com/Tianhao-Li/Leetcode/blob/main/String/696.%20Count%20Binary%20Substrings.md)
 
 [811. Subdomain Visit Count](https://github.com/Tianhao-Li/Leetcode/blob/main/String/811.%20Subdomain%20Visit%20Count.md)
