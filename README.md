@@ -119,7 +119,7 @@ LRU Cache
 
 [28. Implement strStr()](https://github.com/Tianhao-Li/Leetcode/blob/main/String/28.%20Implement%20strStr().md)
 
-[68. Text Justification]()
+[68. Text Justification](https://github.com/Tianhao-Li/Leetcode/blob/main/String/68.%20Text%20Justification.md)
 
 [696. Count Binary Substrings](https://github.com/Tianhao-Li/Leetcode/blob/main/String/696.%20Count%20Binary%20Substrings.md)
 
