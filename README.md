@@ -121,6 +121,8 @@ LRU Cache
 
 [68. Text Justification](https://github.com/Tianhao-Li/Leetcode/blob/main/String/68.%20Text%20Justification.md)
 
+[224. Basic Calculator]()
+
 [696. Count Binary Substrings](https://github.com/Tianhao-Li/Leetcode/blob/main/String/696.%20Count%20Binary%20Substrings.md)
 
 [811. Subdomain Visit Count](https://github.com/Tianhao-Li/Leetcode/blob/main/String/811.%20Subdomain%20Visit%20Count.md)
