@@ -135,7 +135,7 @@ LRU Cache
 
 [41. First Missing Positive](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/41.%20First%20Missing%20Positive.md)
 
-[56. Merge Intervals]()
+[56. Merge Intervals](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/56.%20Merge%20Intervals.md)
 
 [73. Set Matrix Zeroes](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/73.%20Set%20Matrix%20Zeroes.md)
 
