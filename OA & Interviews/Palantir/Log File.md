@@ -7,7 +7,7 @@
 - Input and output clarification
 
 ```java
-public void startEndTime(String[][] log) {
+public List<List<List<String>>> startEndTime(String[][] log) {
     // Idea: Use HashMap to store each user's access, then find out the time
     // Corner case: ...
     Map<String, Integer[]> map = new HashMap<>(); // <userID, starting time & ending time>
@@ -29,11 +29,17 @@ public void startEndTime(String[][] log) {
     }
 
     // Output result
+  	List<List<List<String>>> result = new ArrayList<>();
     for (String user : map.keySet()) {
-        System.out.println("The times for " + user + "is: ");
-        System.out.print(map.get(user)[0]);
-        System.out.print(",");
-        System.out.println(map.get(user)[1]);
+        List<String> name = Arrays.asList(user);
+      	Integer[] times = map.get(user);
+      	List<String> time = Arrays.asList(String.valueOf(times[0]), String.valueOf(times[1]));
+      	
+      	List<List<String>> record = new ArrayList<>();
+      	record.add(name);
+      	record.add(time);
+      
+      	result.add(record);
     }
 }
 ```
@@ -48,7 +54,7 @@ public void startEndTime(String[][] log) {
 > Write a function that takes the logs and returns the resource with the highest number of accesses in any 5 minute window, together with how many accesses it saw.
 
 ```java
-public void mostFrequentFile(String[][] log) {
+public List<List<String>> mostFrequentFile(String[][] log) {
     // Idea: Use HashMap to store access to each file, then find out the time
     // Corner case:...
 
@@ -93,12 +99,23 @@ public void mostFrequentFile(String[][] log) {
         }
     }
 
-    System.out.println("Most frequent visited resource is " + maxId);
-    System.out.println(globalMax);
-    List<Integer> access = map.get(maxId);
+    
+  	// Output
+  	List<String> id = Arrays.asList(maxId);
+  	List<String> num = Arrays.asList(String.valueOf(globalMax));
+  
+    List<Integer> times = map.get(maxId);
+  	List<String> access = new ArrayList<>();
     for (int i = maxStartIdx; i < maxStartIdx + globalMax; i++) {
-        System.out.println(access.get(i));
+        access.add(String.valueOf(times.get(i)));
     }
+  	
+  	List<List<String>> result = new ArrayList<>();
+  	result.add(id);
+  	result.add(num);
+  	result.add(time);
+  
+  	return result;
 }
 ```
 
