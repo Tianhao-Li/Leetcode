@@ -93,3 +93,5 @@ class Solution {
 }
 ```
 
+- TC: O(n) -- findRight and Justify both O(n)
+- SC: O(1) -- O(maxWidth)
