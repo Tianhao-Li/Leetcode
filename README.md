@@ -113,7 +113,7 @@ LRU Cache
 
 [380. Insert Delete GetRandom O(1)](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/380.%20Insert%20Delete%20GetRandom%20O(1).md)
 
-[2225. Find Players With Zero or One Losses]()
+[2225. Find Players With Zero or One Losses](https://github.com/Tianhao-Li/Leetcode/blob/main/HashMap/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md)
 
 
 
