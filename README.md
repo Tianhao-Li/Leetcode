@@ -37,7 +37,7 @@ LRU Cache
 
 [322. Coin Change](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/322.%20Coin%20Change.md)
 
-[718. Maximum Length of Repeated Subarray]()
+[718. Maximum Length of Repeated Subarray](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md)
 
 [730. Count Different Palindromic Subsequences](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/730.%20Count%20Different%20Palindromic%20Subsequences.md)
 
