@@ -59,6 +59,19 @@ public List<List<List<String>>> courseOverlaps(String[][] studentCoursePairs) {
 }
 ```
 
+Testing:
+
+```java
+for (List<List<String>> pair : result) {
+    System.out.print(Arrays.toString(pair.get(0).toArray()));
+    System.out.println(Arrays.toString(pair.get(1).toArray()));
+}
+```
+
+- TC: O(n^2)
+
+- SC: O(n)
+
 
 
 ## 2. Output mid class
