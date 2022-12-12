@@ -119,7 +119,7 @@ public List<List<String>> mostFrequentFile(String[][] log) {
 }
 ```
 
-- TC: O(n)
+- TC: O(n log n) -- for the sorting
 - SC: O(n)
 
 
@@ -131,7 +131,7 @@ public List<List<String>> mostFrequentFile(String[][] log) {
 - Clarify input, clarify output format
 
 ```java
-public void transitionGraph(String[][] log) {
+public List<List<List<String>>> transitionGraph(String[][] log) {
     // Idea: First build each user's resource path, then count the next visit after each state
     // Corner case: ...
 
@@ -223,12 +223,19 @@ public void transitionGraph(String[][] log) {
     }
 
     // 4. Output
+    List<List<List<String>>> result = new ArrayList<>();
     for (String resource : count.keySet()) {
-        System.out.println(resource + ": ");
-        for (Map.Entry<String, Double> state : count.get(resource).entrySet()) {
-            System.out.println(state.getKey() + ": " +  String.format("%.2f", state.getValue())+ ",");
+        List<List<String>> record = new ArrayList<>();
+        // state
+        List<String> state = Arrays.asList(resource);
+        record.add(state);
+        // next states & probabilities
+        for (Map.Entry<String, Double> nextState : count.get(resource).entrySet()) {
+            record.add(Arrays.asList(nextState.getKey(), String.format("%.2f", nextState.getValue())));
         }
+        result.add(record);
     }
+    return result;
 }
 ```
 

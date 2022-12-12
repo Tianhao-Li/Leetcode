@@ -8,7 +8,7 @@
 - Check for output order
 
 ```java
-public List<Integer> zeroOrOneParent(int[][] edges) {
+public List<List<Integer>> zeroOrOneParent(int[][] edges) {
     // Idea: Use Map to store each node's parents count
     // Corner case:
     if (edges == null || edges.length == 0) {
@@ -26,13 +26,20 @@ public List<Integer> zeroOrOneParent(int[][] edges) {
         count.put(child, count.getOrDefault(child, 0) + 1);
     }
 
-    List<Integer> result = new ArrayList<>();
+    // Output
+    List<Integer> zero = new ArrayList<>();
+    List<Integer> one = new ArrayList<>();
     for (Integer node : count.keySet()) {
         int num = count.get(node);
-        if (num == 0 || num == 1) {
-            result.add(node);
+        if (num == 0) {
+            zero.add(node);
+        } else if (num == 1) {
+            one.add(node);
         }
     }
+    List<List<Integer>> result = new ArrayList<>();
+    result.add(zero);
+    result.add(one);
 
     return result; // order?
 }
