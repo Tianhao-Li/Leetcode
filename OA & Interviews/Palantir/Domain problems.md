@@ -114,8 +114,8 @@ public List<String> longestCommonContinuousHistory(String[] history1, String[] h
 - Clarify output format
 
 ```java
-public void adsConversionRate(String[] completedPurchaseUserIds, String[] adClicks, String[] allUserIps) {
-    // Idea: put all user IP-ID into map, then store click info test-IP into map, put purchase id into set
+public List<List<String>> adsConversionRate(String[] completedPurchaseUserIds, String[] adClicks, String[] allUserIps) {
+    // Idea: put all user IP-ID into map, then store click info text-IP into map, put purchase id into set
     // finally for each text, check if each ID is in the purchase list
 
     // Corner case: ...
@@ -149,8 +149,8 @@ public void adsConversionRate(String[] completedPurchaseUserIds, String[] adClic
     }
 
     // Construct output
+    List<List<String>> result = new ArrayList<>();
     for (String text : clicks.keySet()) {
-        System.out.println(text);
         int clicked = clicks.get(text).size();
         // Get purchase count
         int bought = 0;
@@ -159,9 +159,18 @@ public void adsConversionRate(String[] completedPurchaseUserIds, String[] adClic
                 bought++;
             }
         }
-        // Print info
-        System.out.println("Clicked: " + clicked);
-        System.out.println("Purchases: " + bought);
+        result.add(Arrays.asList(text, String.valueOf(bought), String.valueOf(clicked)));
     }
+
+    return result;
+}
+```
+
+Testing:
+
+```java
+for (List<String> record : result) {
+    System.out.println("Text: " + record.get(0) + ", bought " + record.get(1) +
+            " of " + record.get(2) + " clicked");
 }
 ```
