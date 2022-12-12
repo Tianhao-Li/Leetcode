@@ -6,6 +6,54 @@
 
 - Clarify input & output format
 
+```java
+public String[] wordWrap(String[] words, int maxWidth) {
+    List<String> result = new ArrayList<>();
+    int left = 0;
+
+    while (left < words.length) {
+        // expand this line of ouput
+        int right = findRight(words, left, maxWidth);
+        result.add(connect(words, left, right, maxWidth));
+        left = right + 1;
+    }
+
+    return result.toArray(new String[0]);
+}
+
+private String connect(String[] words, int left, int right, int maxWidth) {
+    StringBuilder sb = new StringBuilder();
+    for (int i = left; i <= right; i++) {
+        sb.append(words[i]).append("-");
+    }
+    sb.deleteCharAt(sb.length() - 1);
+
+    return sb.toString();
+}
+
+private int findRight(String[] words, int left, int maxWidth) {
+    // Start from the word -- words[left]
+    int right = left;
+    int sumLength = words[right++].length();
+
+    // Expand as far as possible (until invalid)
+    // each time "right" is already pointing at the words we have not examined yet
+    while (right < words.length && sumLength + 1 + words[right].length() <= maxWidth) { // 1 for space
+        sumLength += 1 + words[right].length();
+        right++;
+    }
+
+    return right - 1; // (Since final invalid right is included)
+}
+```
+
+Testing:
+
+```java
+String[] result = test.wordWrap(words, 13);
+System.out.println(Arrays.toString(result));
+```
+
 
 
 ## 2. Word processor : reflow & justify
