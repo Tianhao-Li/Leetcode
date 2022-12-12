@@ -41,8 +41,20 @@ public List<List<List<String>>> startEndTime(String[][] log) {
       
       	result.add(record);
     }
+  	return result;
 }
 ```
+
+Testing:
+
+```java
+for (List<List<String>> record : result) {
+    System.out.println(record.get(0).get(0) + ":");
+    System.out.println(Arrays.toString(record.get(1).toArray()));
+}
+```
+
+
 
 - TC: O(n)
 - SC: O(n) -- size of map, considering num of entries and size of each entry
@@ -113,11 +125,21 @@ public List<List<String>> mostFrequentFile(String[][] log) {
   	List<List<String>> result = new ArrayList<>();
   	result.add(id);
   	result.add(num);
-  	result.add(time);
+  	result.add(access);
   
   	return result;
 }
 ```
+
+Testing:
+
+```java
+System.out.print(result.get(0).get(0) + ":");
+System.out.println(result.get(1).get(0) + "times");
+System.out.println(Arrays.toString(result.get(2).toArray()));
+```
+
+
 
 - TC: O(n log n) -- for the sorting
 - SC: O(n)
@@ -238,6 +260,21 @@ public List<List<List<String>>> transitionGraph(String[][] log) {
     return result;
 }
 ```
+
+Testing:
+
+```java
+for (List<List<String>> record : result) {
+    String state = record.get(0).get(0);
+    System.out.print(state + ": ");
+    for (int i = 1; i < record.size(); i++) {
+        System.out.print(Arrays.toString(record.get(i).toArray()));
+    }
+    System.out.println();
+}
+```
+
+
 
 - TC: O(n log n) -- add entry O(n), sorting worst case O(n log n), count info O(n)
 
