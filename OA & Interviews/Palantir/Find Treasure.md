@@ -156,5 +156,26 @@ private void dfs(int[][] mat, int x, int y, List<Integer> end, int remainTreasur
 }
 ```
 
+Testing
+
+```java
+int[] start = {5,2};
+int[] end = {2,0};
+List<List<List<Integer>>> result = test.findAllTreasures(board, start, end);
+
+if (result.size() == 0) {
+    System.out.println("None");
+} else {
+    for (List<List<Integer>> path : result) {
+        for (List<Integer> node : path) {
+            System.out.print(Arrays.toString(node.toArray()));
+        }
+        System.out.println();
+    }
+}
+```
+
+
+
 - TC: O(3^mn)
 - SC: O(m^2n^2) -- call stack O(mn), length of path O(mn), number of paths around O(mn)
