@@ -45,6 +45,15 @@ public List<List<Integer>> zeroOrOneParent(int[][] edges) {
 }
 ```
 
+Testing:
+
+```java
+for (int i = 0; i < result.size(); i++) {
+    System.out.println("Nodes with " + i + " parents:");
+    System.out.println(Arrays.toString(result.get(i).toArray()));
+}
+```
+
 - TC: O(n) -- if output sorted then O(n log n)
 - SC: O(n)
 
