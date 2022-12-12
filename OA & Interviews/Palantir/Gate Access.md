@@ -56,9 +56,17 @@ public List<List<String>> invalidBadgeRecords(String[][] records) {
     List<String> wrongEnter = new ArrayList<>(invalidEnter);
     List<String> wrongExit = new ArrayList<>(invalidExit);
     List<List<String>> result = new ArrayList<>();
-    result.add(wrongEnter);
     result.add(wrongExit);
+    result.add(wrongEnter);
     return result;
+}
+```
+
+Testing:
+
+```java
+for (List<String> entry : result) {
+    System.out.println(Arrays.toString(entry.toArray()));
 }
 ```
 
@@ -145,6 +153,15 @@ private int timeDiff(String small, String big) {
     int m2 = t2 % 100;
     // calculate diff
     return h2 * 60 + m2 - h1 * 60 - m1;
+}
+```
+
+Testing:
+
+```java
+for (List<List<String>> person : result) {
+    System.out.print(person.get(0).get(0) + ": ");
+    System.out.println(Arrays.toString(person.get(1).toArray()));
 }
 ```
 
