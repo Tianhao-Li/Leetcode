@@ -59,7 +59,7 @@ public int[][] findOneRectangle(int[][] board) {
 - Can I modify the input?
 
 ```java
-public void findMultipleRectangle(int[][] board) {
+public List<List<List<Integer>>> findMultipleRectangle(int[][] board) {
     // Idea: Similar to (1) to find a rectangle, then similar to find islands, modify this rectangle to be 1
     // Corner case: ...
 
@@ -95,12 +95,15 @@ public void findMultipleRectangle(int[][] board) {
         }
     }
 
-    // Print result
+    // Output
+    List<List<List<Integer>>> result = new ArrayList<>();
     for (int index = 0; index < topLefts.size(); index++) {
-        System.out.println("The " + String.valueOf(index) + "th matrix:");
-        System.out.println(Arrays.toString(topLefts.get(index).toArray()));
-        System.out.println(Arrays.toString(bottomRights.get(index).toArray()));
+        List<List<Integer>> rectangle = new ArrayList<>();
+        rectangle.add(topLefts.get(index));
+        rectangle.add(bottomRights.get(index));
+        result.add(rectangle);
     }
+    return result;
 }
 ```
 
