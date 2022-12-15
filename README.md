@@ -31,7 +31,9 @@ LRU Cache
 
 [62. Unique Paths](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/62.%20Unique%20Paths.md)
 
-[121. Best Time to Buy and Sell Stock]()
+[121. Best Time to Buy and Sell Stock](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+
+[122. Best Time to Buy and Sell Stock II]()
 
 [139. Word Break](https://github.com/Tianhao-Li/Leetcode/blob/main/DP/139.%20Word%20Break.md)
 
