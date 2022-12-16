@@ -147,7 +147,7 @@ LRU Cache
 
 [56. Merge Intervals](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/56.%20Merge%20Intervals.md)
 
-[57. Insert Interval]()
+[57. Insert Interval](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/57.%20Insert%20Interval.md)
 
 [73. Set Matrix Zeroes](https://github.com/Tianhao-Li/Leetcode/blob/main/Array/73.%20Set%20Matrix%20Zeroes.md)
 
