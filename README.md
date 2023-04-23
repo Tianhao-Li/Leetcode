@@ -73,6 +73,8 @@ LRU Cache
 
 ### Binary Search
 
+[153. Find Minimum in Rotated Sorted Array]()
+
 [719. Find K-th Smallest Pair Distance](https://github.com/Tianhao-Li/Leetcode/blob/main/Binary%20Search/719.%20Find%20K-th%20Smallest%20Pair%20Distance.md)
 
 
