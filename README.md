@@ -61,6 +61,8 @@ LRU Cache
 
 ### DFS
 
+[79. Word Search]()
+
 [104. Maximum Depth of Binary Tree](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 
 [130. Surrounded Regions](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/130.%20Surrounded%20Regions.md)
