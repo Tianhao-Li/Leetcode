@@ -63,6 +63,8 @@ LRU Cache
 
 [104. Maximum Depth of Binary Tree](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 
+[130. Surrounded Regions](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/130.%20Surrounded%20Regions.md)
+
 [200. Number of Islands](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/200.%20Number%20of%20Islands.md)
 
 [341. Flatten Nested List Iterator](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.md)
@@ -102,8 +104,6 @@ LRU Cache
 ### Tree
 
 [116. Populating Next Right Pointers in Each Node](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
-
-[130. Surrounded Regions](https://github.com/Tianhao-Li/Leetcode/blob/main/DFS/130.%20Surrounded%20Regions.md)
 
 [230. Kth Smallest Element in a BST](https://github.com/Tianhao-Li/Leetcode/blob/main/Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
 
